@@ -1,4 +1,5 @@
 # Axl McGuinness Fastai Blog
+![logo](images/logo.png)
 
 This is a blog chronicling my usage of fastai.
 
