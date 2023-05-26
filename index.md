@@ -4,7 +4,3 @@ Machine learning naturally requires long up time... codespace despises long up t
 
 
 ![Image of fast.ai logo](images/logo.png)
-
-## Post Index
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
